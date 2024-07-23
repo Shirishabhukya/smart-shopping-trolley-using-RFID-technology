@@ -5,7 +5,7 @@
   Shopping is easy, but waiting in line at the checkout can make the experience dull and tedious. Crowds and the time it takes for the cashier to prepare bills often lead to long queues. During the
  ongoing pandemic, standing in line for billing at malls or shopping centers can increase the risk of spreading the virus. The current billing system takes up too much time, disrupting people's busy
  schedules and causing frustration.The evolution of smart trolley technology in the retail industry has been driven by a focus on improving customer experience, streamlining operations, and leveraging advanced technologies such as RFID, IoT, AI, and mobile connectivity.
- Functionality :
+ # Functionality :
   Automated Item Scanning : Smart trolleys are equipped with RFID (Radio-Frequency Identification) readers or barcode scanners that allow customers to scan items as they place
  them in the cart. This eliminates the need for manual scanning at checkout counters, speeding up the shopping process. 
  Interactive Displays : Many smart trolleys feature interactive displays, such as LCD screens, where customers can view item details, prices, promotions, and personalized recommendations. These displays can also provide navigation assistance within the store.
